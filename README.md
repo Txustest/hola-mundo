@@ -1,2 +1,2 @@
 # hola-mundo
-algo aprenderemos
+Algo aprenderemos

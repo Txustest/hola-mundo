@@ -21,3 +21,5 @@ No es necesario codificar
 Para completar este tutorial, necesita una cuenta de GitHub.com y acceso a Internet. No necesita saber cómo codificar, usar la línea de comandos o instalar Git (el software de control de versiones en el que se basa GitHub).
 
 Consejo: abra esta guía en una ventana (o pestaña) del navegador separada para que pueda verla mientras completa los pasos del tutorial.
+
+y si pongo algo mas...?
